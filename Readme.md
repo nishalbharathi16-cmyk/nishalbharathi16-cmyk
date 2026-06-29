@@ -1,264 +1,127 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=NISHAL%20B&fontSize=75&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Software%20Developer&descAlignY=58&descSize=22" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1a1a2e,50:16213e,100:0f3460&text=Nishal%20B&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=e2e8f0&desc=Business%20Analyst%20·%20Data%20Analyst%20·%20Software%20Developer&descAlignY=60&descSize=18&fontStyle=bold" />
 
-# ⚡ 𝑵𝒊𝒔𝒉𝒂𝒍 𝑩 ⚡
+<br/>
 
-### 🚀 Business Analyst | 📊 Data Analyst | 💻 Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Business+Insights.;Building+Technology+That+Creates+Real+Impact.;Bridging+Business+Strategy+With+Software+Innovation.;Passionate+About+Analytics%2C+Technology+%26+Growth.;Future+Business+Technology+Leader." />
-
-<br>
-
-### 🎓 Computer Science & Business Systems Student
-
-### 🏫 Rajalakshmi Engineering College, Chennai
-
-<br>
-
-> **"Where Business Intelligence Meets Technology Innovation."**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=780&lines=Turning+business+problems+into+engineering+solutions.;Bridging+the+gap+between+data%2C+strategy%2C+and+code.;Computer+Science+%26+Business+Systems+%7C+Chennai." />
 
 </div>
 
 ---
 
-# 👨‍💼 Executive Summary
+## About
 
-I am **Nishal B**, a highly motivated **Computer Science and Business Systems (CSBS)** student with a strong passion for **Business Analysis, Data Analytics, and Software Development**.
+I'm a **Computer Science and Business Systems (CSBS)** student at **Rajalakshmi Engineering College, Chennai**, with a focus on the intersection of business strategy, data analytics, and software engineering.
 
-My goal is to leverage technology, analytics, and strategic thinking to solve complex business challenges and develop innovative digital solutions that create measurable impact.
+My work sits at the overlap of three disciplines:
 
-I believe that successful products are built at the intersection of:
+- **Business analysis** — translating organizational needs into structured, solvable problems
+- **Data analytics** — extracting decisions from raw information
+- **Software development** — building systems that make those decisions actionable
 
-📊 Data-Driven Decision Making
-
-💼 Business Strategy
-
-💻 Software Engineering
-
-🚀 Innovation & Technology
+I believe the most impactful technology is built by people who understand *why* something needs to exist, not just *how* to build it.
 
 ---
 
-# 🎯 Professional Identity
+## Technical Skills
 
-```yaml
-Name: Nishal B
+**Languages**
 
-Title:
-  - Business Analyst
-  - Data Analyst
-  - Software Developer
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=93c5fd)
+![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=93c5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=fcd34d)
+![C](https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=93c5fd)
 
-Education:
-  B.Tech Computer Science and Business Systems
+**Web**
 
-Institution:
-  Rajalakshmi Engineering College
+![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=flat-square&logo=css3&logoColor=60a5fa)
 
-Core Strengths:
-  - Analytical Thinking
-  - Problem Solving
-  - Business Intelligence
-  - Software Development
-  - Data Interpretation
+**Tools**
 
-Mission:
-  Transforming business challenges into technology-driven solutions.
+![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=e2e8f0)
+![VS Code](https://img.shields.io/badge/VS%20Code-1e293b?style=flat-square&logo=visual-studio-code&logoColor=60a5fa)
+
+---
+
+## Projects
+
+### Smart Bus Seat Booking System
+An intelligent transportation management solution for educational institutions — covering seat allocation logic, booking workflows, and operational reporting.
+
+**Focus areas:** Route optimization · Booking UX · Workflow automation
+
+---
+
+### Academic Performance Analytics Platform
+A CGPA and academic progress tracking system with automated grading calculations, performance summaries, and trend insights for students and institutions.
+
+**Focus areas:** Data processing · Grading automation · Performance reporting
+
+---
+
+### Attendance Monitoring & Analytics System
+A data-driven attendance platform with real-time tracking, threshold alerts, and analytical dashboards to support institutional decision-making.
+
+**Focus areas:** Real-time tracking · Attendance analytics · Visualization
+
+---
+
+### TechSpark
+A modern technology platform centered on clean user experience, responsive design, and strong digital branding.
+
+**Focus areas:** UI/UX design · Responsive layout · Brand identity
+
+---
+
+## Core Competencies
+
+```
+Business Analysis           ████████████░░  85%
+Data Analytics              ███████████░░░  82%
+Software Development        ███████████░░░  84%
+Problem Solving             █████████████░  88%
+Business Systems            █████████████░  90%
+Leadership & Communication  ██████████░░░░  78%
 ```
 
 ---
 
-# 🛠️ Technical Expertise
+## GitHub Stats
 
 <div align="center">
 
-## Programming Languages
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=93c5fd&icon_color=60a5fa&text_color=94a3b8" />
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=93c5fd&text_color=94a3b8" />
 
-## Web Technologies
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3)
+<div align="center">
 
-## Development Tools
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge\&logo=visual-studio-code)
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=93c5fd" />
 
 </div>
 
 ---
 
-# 📊 Areas of Specialization
+## Let's Connect
 
-<div align="center">
+I'm open to collaborating on projects in data analytics, business technology, and applied software development.
 
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-6D28D9?style=for-the-badge)
-
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-7C3AED?style=for-the-badge)
-
-![Software Development](https://img.shields.io/badge/Software_Development-8B5CF6?style=for-the-badge)
-
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-A855F7?style=for-the-badge)
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-C084FC?style=for-the-badge)
-
-![Digital Innovation](https://img.shields.io/badge/Digital_Innovation-D8B4FE?style=for-the-badge)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🚌 Smart Bus Seat Booking System
-
-An intelligent transportation management solution designed to optimize seat allocation, booking workflows, and operational efficiency for educational institutions.
-
-### Key Contributions
-
-✔ Smart Seat Allocation
-
-✔ User-Centric Booking Experience
-
-✔ Transportation Workflow Optimization
-
----
-
-## 🎓 Academic Performance Analytics Platform
-
-A comprehensive CGPA and academic performance management system supporting grading calculations, academic insights, and performance tracking.
-
-### Key Contributions
-
-✔ Academic Data Processing
-
-✔ Performance Evaluation
-
-✔ Grading System Automation
-
----
-
-## 📊 Attendance Monitoring & Analytics System
-
-A data-driven attendance management platform providing real-time monitoring, reporting, and analytical insights.
-
-### Key Contributions
-
-✔ Attendance Tracking
-
-✔ Performance Analytics
-
-✔ Reporting & Visualization
-
----
-
-## 🌐 TechSpark
-
-A modern technology platform focused on innovation, branding, user engagement, and digital experiences.
-
-### Key Contributions
-
-✔ Responsive Design
-
-✔ Professional Branding
-
-✔ User Experience Enhancement
-
----
-
-# 📈 Growth Dashboard
-
-```text
-Business Analysis         ████████████░░░ 85%
-
-Data Analytics            ███████████░░░░ 82%
-
-Software Development      ███████████░░░░ 84%
-
-Problem Solving           ████████████░░░ 88%
-
-Business Systems          █████████████░░ 90%
-
-Leadership & Innovation   ██████████░░░░░ 78%
-```
-
----
-
-# 🌟 What Sets Me Apart
-
-✅ Unique blend of Business and Technology expertise
-
-✅ Strong analytical and strategic thinking abilities
-
-✅ Passion for data-driven decision-making
-
-✅ Practical experience in developing impactful applications
-
-✅ Commitment to continuous learning and professional growth
-
-✅ Ability to translate business requirements into technical solutions
-
----
-
-# 🎯 Career Vision
-
-To become a highly skilled **Business Technology Professional** capable of driving innovation through the integration of:
-
-📊 Analytics
-
-💼 Business Strategy
-
-💻 Software Engineering
-
-🤖 Artificial Intelligence
-
-My long-term vision is to create scalable digital solutions that empower organizations to make smarter, faster, and more informed decisions.
-
----
-
-# 📊 GitHub Analytics
-
-<!-- Replace YOUR_GITHUB_USERNAME -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
-# 🤝 Let's Connect
-
-I am always interested in:
-
-🚀 Innovative Projects
-
-📊 Data Analytics Opportunities
-
-💼 Business Technology Solutions
-
-🤝 Professional Collaborations
-
-🌍 Open Source Contributions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=f97316)](mailto:YOUR_EMAIL)
 
 ---
 
 <div align="center">
 
-## ⭐ 𝗡𝗜𝗦𝗛𝗔𝗟 𝗕
-
-### Business Analyst • Data Analyst • Software Developer
-
-#### "Transforming Data Into Decisions, Ideas Into Solutions, and Technology Into Business Value."
+*"Good technology solves a real problem. Great technology makes the solution feel obvious."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f3460,50:16213e,100:1a1a2e" />
