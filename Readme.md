@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a **Computer Science and Business Systems (CSBS)** student at **Rajalakshmi Engineering College, Chennai**, with a focus on the intersection of business strategy, data analytics, and software engineering.
+I'm a **Computer Science and Business Systems (CSBS)** student at **Rajalakshmi Institute Of Technology, Chennai**, with a focus on the intersection of business strategy, data analytics, and software engineering.
 
 My work sits at the overlap of three disciplines:
 
