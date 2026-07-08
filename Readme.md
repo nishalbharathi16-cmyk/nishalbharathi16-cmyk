@@ -108,7 +108,7 @@ Leadership & Communication  ██████████░░░░  78%
 
 ---
 
-## Let's Connect
+## Let's connect
 
 I'm open to collaborating on projects in data analytics, business technology, and applied software development.
 
